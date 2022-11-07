@@ -1,0 +1,408 @@
+{
+    "questions": [
+        "1. Which of the following extract instructions and decodes them?",
+        "2. Which linking unit allows the entry of data into the computer system?",
+        "3. Which of the following holds data for a long period of time?",
+        "4. Which of the following refers to instruction set of a computer?",
+        "5. Which of the following makes up the CPU?",
+        "6. Which of the following is the fastest?",
+        "7. Which of the following is a unit for measuring the speed of a computer system",
+        "8. With respect to computer system, what is versatility?",
+        "9. Which of the following is an in-built memory?",
+        "10. Which of the following is crucial to problem solving?",
+        "11. The primary language understood by a computer is______________",
+        "12. Which of the following relates to steps required to complete a task?",
+        "13. Which of the following is closer to the processor?",
+        "14. Which of the following is not a function of the input unit?",
+        "15. Which of the following is a flash memory device?",
+        "16. Which of the following functions as both input and output device?",
+        "17. Which of the following does not relate to the storage functions of the memory?",
+        "18. Which of the following performs comparison and calculations?",
+        "19. Which of the following relates to diligence in computers?",
+        "20. Which of the following set represents the typical functional component of a computer system from input to output?",
+        "21. Which of the following is a temporary storage device?",
+        "22. Which of the following is a magnetic storage device?",
+        "23. How does complicated instruction set affect a computer system?",
+        "24. Which of the following uses light for data storage?",
+        "25. Which of the following controls both the internal and external devices?",
+        "26. Which of the following is an attribute of a good programmer?",
+        "27. To reduce the memory access time, which of the following can be incorporated?",
+        "28. The small extremely fast RAMS are called",
+        "29. Devices that accepts data from outside computer and transfer into CPU are called?",
+        "30. Devices which are used to receive data from central processing unit are classified as?",
+        "31. RAM stands for",
+        "32. Which of the following computer component is correctly associated with the function it performs?",
+        "33. The hardware unit used for controlling computer system operation is___?",
+        "34. The hardware unit for long-term storage is_____?",
+        "35. Which of the following will be chosen based on speed to access?",
+        "36. The full meaning of ALU is_______________",
+        "37. ALU and Control Unit jointly known as__________________",
+        "38. RAM is an example of________________________",
+        "39. Magnetic disk is an example of",
+        "40. RAM is also called a",
+        "41. All of the following are examples of storage devices EXCEPT",
+        "42. Computers process data into information by working exclusively with",
+        "43. A DVD is an example of a",
+        "44. Which part of the computer is directly involved in executing the instructions of the computer program?",
+        "45. Which of the following does not store data permanently?",
+        "46. Which one of the following is true for RAM?",
+        "47. What does a computer do after gathering data, processing it and sending the data to the output device?",
+        "48. Where are the programs and data currently processed by the CPU stored?",
+        "49. Accepted instructions are converted into machine language with the help of",
+        "50. Secondary storage devices are"
+    ],
+    "options": [
+        [
+            "A. Memory",
+            "B. CPU",
+            "C. ALU",
+            "D. Control Unit"
+        ],
+        [
+            "A. Output Unit",
+            "B. Input Unit",
+            "C. Processor",
+            "D. Cache memory"
+        ],
+        [
+            "A. Cache Memory",
+            "B. Hard Disk",
+            "C. RAM",
+            "D. Diskette"
+        ],
+        [
+            "A. Arithmetic operations performed by a memory location",
+            "B. Logical operations performed by a cache memory",
+            "C. The operations a microprocessor performs",
+            "D. Arithmetic operations performed by a microprocessor"
+        ],
+        [
+            "A. Memory and ALU",
+            "B. Cache and Control unit",
+            "C. Control unit and ALU",
+            "D. Ram and Control unit"
+        ],
+        [
+            "A. RAM",
+            "B. Cache",
+            "C. Hard drive",
+            "D. Flash disk"
+        ],
+        [
+            "A. 10-9",
+            "B. 10-6",
+            "C. 103",
+            "D. 106"
+        ],
+        [
+            "A. Ability to carry out same multiple tasks",
+            "B. ability to execute completely different type of work",
+            "C. ability to carry out related tasks in limited time",
+            "D. ability to carry out iteration."
+        ],
+        [
+            "A. hard disk",
+            "B. magnetic drive",
+            "C. RAM/cache",
+            "D. Floppy disk"
+        ],
+        [
+            "A. Problem initiation",
+            "B. Problem identification",
+            "C. Problem creation",
+            "D. Problem definition"
+        ],
+        [
+            "A. High level language",
+            "B. Low level language",
+            "C. Intermediate language",
+            "D. Object languages"
+        ],
+        [
+            "A. Flowcharts",
+            "B. Data flows",
+            "C. Algorithm",
+            "D. Structure charts"
+        ],
+        [
+            "A. RAM",
+            "B. Cache",
+            "C. Hard drive",
+            "D. Flash disk"
+        ],
+        [
+            "A. It accepts (or reads) the list of instructions and data from the outside world.",
+            "B. It converts these instructions and data in computer acceptable format.",
+            "C. It supplies the converted instructions and data to the computer system for further processing",
+            "D. It converts these coded results to human acceptable (readable) form"
+        ],
+        [
+            "A. Memory stick",
+            "B. Blu-ray disc",
+            "C. Tape cassette",
+            "D. SSD"
+        ],
+        [
+            "A. Facsimile",
+            "B. Plotters",
+            "C. Webcam",
+            "D. Projector"
+        ],
+        [
+            "A. Final results of processing before these results are released to an output device",
+            "B. Storage of intermediate results of processing.",
+            "C. Storage of all data to be processed and the instruction required for processing",
+            "D. Arithmetic data only"
+        ],
+        [
+            "A. Memory",
+            "B. USB",
+            "C. CPU",
+            "D. Control unit"
+        ],
+        [
+            "A. Free from tiredness and fatigue",
+            "B. Ability to compute error",
+            "C. Ability to make multiple comparisons",
+            "D. Ability to lower human performance"
+        ],
+        [
+            "A. Image scanner, super disk, LCD projection channel",
+            "B. LCD projection channel, Image scanner, super disk",
+            "C. Super disk, Image scanner, LCD projection channel",
+            "D. LCD projection channel, super disk, Image scanner"
+        ],
+        [
+            "A. Magnetic disk",
+            "B. Hard disk",
+            "C. Cache memory",
+            "D. Network media"
+        ],
+        [
+            "A. Memory stick",
+            "B. Blu-ray disc",
+            "C. Hard disk",
+            "D. SSD"
+        ],
+        [
+            "A. Makes operation performance faster",
+            "B. Makes CPU performance slower",
+            "C. Makes CPU performance faster",
+            "D. Makes no effect on the system performance"
+        ],
+        [
+            "A. Memory stick",
+            "B. Blu-ray disc",
+            "C. Tape cassette",
+            "D. SSD"
+        ],
+        [
+            "A. ALU",
+            "B. CPU",
+            "C. CACHE",
+            "D. RAM"
+        ],
+        [
+            "A. Ability to encode fact into variables",
+            "B. Ability encode variables into facts",
+            "C. Ability to convert data into facts",
+            "D. Ability to store facts in the system"
+        ],
+        [
+            "A. heaps",
+            "B. Higher capacity RAM",
+            "C. SDRAM",
+            "D. Cache memory"
+        ],
+        [
+            "A. Cache",
+            "B. Heaps",
+            "C. Hard disk",
+            "D. Floppy disk"
+        ],
+        [
+            "A. input devices",
+            "B. digital devices",
+            "C. analogue devices",
+            "D. truth table peripherals"
+        ],
+        [
+            "A. output/input devices",
+            "B.  digital devices",
+            "C. signaled devices",
+            "D. output devices"
+        ],
+        [
+            "A. Random Access Memory",
+            "B. Read Access Memory",
+            "C. Read Arithmetic Memory",
+            "D. Random Arithmetic Memory"
+        ],
+        [
+            "A. monitor: output",
+            "B. CPU: storage",
+            "C. RAM: processing",
+            "D. Optical drive: input"
+        ],
+        [
+            "A. monitor",
+            "B. RAM",
+            "C. Processor",
+            "D. keyboard"
+        ],
+        [
+            "A. RAM",
+            "B. Hard Disk",
+            "C. Floppy disk",
+            "D. DVD"
+        ],
+        [
+            "A. RAM",
+            "B. Hard Disk",
+            "C. Floppy disk",
+            "D. CD-ROM"
+        ],
+        [
+            "A. Arithmetic Logic Unit",
+            "B. Array Logic Unit",
+            "C. Application Logic Unit",
+            "D. None of above"
+        ],
+        [
+            "A. RAM",
+            "B. ROM",
+            "C. CPU",
+            "D. PC"
+        ],
+        [
+            "A. Secondary memory",
+            "B. Primary memory",
+            "C. Main memory",
+            "D. Both primary and secondary memory"
+        ],
+        [
+            "A. Secondary memory",
+            "B. Primary memory",
+            "C. Main memory",
+            "D. Both primary and secondary memory"
+        ],
+        [
+            "A. Read / Write Memory",
+            "B. Long Memory",
+            "C. Permanent Memory",
+            "D. Primary Memory"
+        ],
+        [
+            "A. hard disk drives",
+            "B. printers",
+            "C. floppy disk drives",
+            "D. CD drives"
+        ],
+        [
+            "A. multimedia",
+            "B. word",
+            "C. binary numbers",
+            "D. characters"
+        ],
+        [
+            "A. hard disk",
+            "B. optical storage",
+            "C. output device",
+            "D. solid-state storage device"
+        ],
+        [
+            "A. The scanner",
+            "B. The main storage",
+            "C. The secondary storage",
+            "D. The processor"
+        ],
+        [
+            "A. ROM",
+            "B. RAM",
+            "C. Floppy disk",
+            "D. Hard disk"
+        ],
+        [
+            "A. It is volatile memory",
+            "B. It is temporary memory",
+            "C. It is primary memory",
+            "D. All of the above"
+        ],
+        [
+            "A. Delete the data",
+            "B. Write the data",
+            "C. Hide the data",
+            "D. Stores the data"
+        ],
+        [
+            "A. Internal memory",
+            "B. PROM",
+            "C. Mass memory",
+            "D. None of the above"
+        ],
+        [
+            "A. Memory unit",
+            "B. Input Unit",
+            "C. Logical unit",
+            "D. Processing unit"
+        ],
+        [
+            "A. Long-term and high- capacity devices",
+            "B. Temporary in nature like RAM",
+            "C. Diskettes, tapes or removable devices",
+            "D. Permanent in nature like Cache memory"
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "B",
+        "C",
+        "C",
+        "B",
+        "B",
+        "B",
+        "C",
+        "B",
+        "C",
+        "C",
+        "B",
+        "D",
+        "D",
+        "A",
+        "D",
+        "C",
+        "A",
+        "A",
+        "C",
+        "D",
+        "B",
+        "B",
+        "B",
+        "A",
+        "D",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "C",
+        "B",
+        "A",
+        "A",
+        "C",
+        "B",
+        "A",
+        "A",
+        "B",
+        "C",
+        "B",
+        "D",
+        "B",
+        "D",
+        "D",
+        "D",
+        "B",
+        "A"
+    ]
+}
